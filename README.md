@@ -17,7 +17,6 @@ A passionate learner and researcher in the field of biometrics and intelligent v
 ⚡ Fun fact: When I'm not immersed in the world of biometrics and intelligent vision, you can find me exploring new cuisines, reading history, and hiking in nature.  I'm also a cooking enthusiast, a politics and international relations buff, a philosophy aficionado, and a nature freak.
 
 Looking forward to connecting with you all and embarking on exciting journeys in the realm of technology and innovation!
-
 <!---
 bilalmashooq/bilalmashooq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
